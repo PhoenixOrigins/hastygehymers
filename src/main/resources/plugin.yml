@@ -1,6 +1,7 @@
 name: hastygehymers
 version: 1.0
 main: com.phoenixorigins.hastygehymers.Hastygehymers
+author: jstnf
 
 commands:
   hastygehymers:
