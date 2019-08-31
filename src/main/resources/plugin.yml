@@ -1,0 +1,12 @@
+name: hastygehymers
+version: 1.0
+main: com.phoenixorigins.hastygehymers.Hastygehymers
+
+commands:
+  hastygehymers:
+    description: Toggle haste during dev sessions.
+
+permissions:
+  hastygehymers.toggle:
+    description: Toggle haste during dev sessions.
+    default: false
